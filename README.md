@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/39020690/59318811-5a54ca00-8c96-11e9-9738-c5bcd5d4f7d1.png" width="400">
 
 
-After being awarded one of the 10,000 seats of the PyTorch Scholarship Challenge from Facebook, I had the honor of being selected, along with 300 lucky fellow students, to pursue the Deep Learning Nanodegree by Udacity.
+After being awarded one of the 10,000 seats of the [PyTorch Scholarship Challenge from Facebook](https://www.udacity.com/facebook-pytorch-scholarship), I had the honor of being selected, along with 300 lucky fellow students, to pursue the Deep Learning Nanodegree by Udacity.
 
 Together with Udacity, Facebook invested in a scholarship program that enabled students to acquire cutting-edge skills in deep learning using Pytorch, a popular, fast-growing open-source deep learning framework that provides a seamless path from AI research to production deployment.
 
