@@ -1,4 +1,4 @@
-# Deep-Learning-Nanodegree-Projects
+# Deep Learning Nanodegree Projects
 
 <img src="https://user-images.githubusercontent.com/39020690/59318811-5a54ca00-8c96-11e9-9738-c5bcd5d4f7d1.png" width="400">
 
@@ -11,3 +11,5 @@ During the first phase of this program, students took the Udacity’s "Introduct
 
 
 <img src="https://user-images.githubusercontent.com/39020690/59318677-cedb3900-8c95-11e9-88d8-3f31ecb2b6e3.png" width="400">
+
+Some of the projects in the present repository were done in the Udacity workspace, some in Google Colab, and the implementation of the sentiment analysis model was carried out in AWS Sagemaker. 
