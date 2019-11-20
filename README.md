@@ -7,7 +7,9 @@ After being awarded one of the 10,000 seats of the [PyTorch Scholarship Challeng
 
 Together with Udacity, Facebook invested in a scholarship program that enabled students to acquire cutting-edge skills in deep learning using PyTorch, a popular, fast-growing open-source deep learning framework that provides a seamless path from AI research to production deployment.
 
-During the first phase of this program, students took the Udacity’s "Introduction to Deep Learning with PyTorch" course, and created a Flower Classifier as a capstone project. In the second phase of the program, the students who earned a full scholarship to the Deep Learning Nanodegree studied Convolutional and Recurrent Neural Networks, Generative Adversarial Networks, Deployment, and more. Students used PyTorch, and had access to GPUs to train models faster, as they learned from authorities like Sebastian Thrun, Ian Goodfellow, Jun-Yan Zhu, and Andrew Trask.
+During the first phase of this program, students took the Udacity’s "Introduction to Deep Learning with PyTorch" course, and created a Flower Classifier as a capstone project. 
+In the second phase of the program, the students who earned a full scholarship to the Deep Learning Nanodegree studied Convolutional and Recurrent Neural Networks, Generative Adversarial Networks, Deployment, and more. Students used PyTorch, and had access to GPUs to train models faster, as they learned from authorities like Sebastian Thrun, Ian Goodfellow, Jun-Yan Zhu, and Andrew Trask.
+Please find my confirmation of graduation [here](https://confirm.udacity.com/UR76TRQ9).
 
 
 <img src="https://user-images.githubusercontent.com/39020690/59318677-cedb3900-8c95-11e9-88d8-3f31ecb2b6e3.png" width="400">
